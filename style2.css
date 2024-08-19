@@ -1,0 +1,71 @@
+
+h1{
+    background-color:black;
+    text-align:center;
+    color: white;
+}
+.vio{
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 15px;
+    width: fit-content;
+    margin-left: 360px;
+
+}
+.ana{
+    background-color:rgb(245, 133, 189);
+    margin: 10px;
+    border-radius: 15px;
+    padding: 15px;
+    width: fit-content;
+    margin-left: 360px;
+
+}
+.marsya{
+    background-color: rgb(132, 119, 206);
+    margin: 10px;
+    border-radius: 15px;
+    padding: 15px;
+    width: fit-content;
+    margin-left: 360px;
+
+}
+.foto{
+    width: 165px;
+    height:200px ;
+    border-radius: 15px;
+    margin: 16px;
+
+}
+
+table,td{
+    border: 2px solid black;
+    border-collapse: collapse; 
+    padding: 5px;
+}
+th{
+    border: 2px solid black;
+    border-collapse: collapse; 
+    padding: 5px;
+    text-align: left;
+}
+
+.satu{
+    background-color:palevioletred;
+}
+.dua{
+    background-color: cornflowerblue;
+}
+.tiga{
+    background-color: mediumpurple;
+}
+.empat{
+    background-color: darkseagreen;
+}
+.lima{
+    background-color:lightskyblue;
+}
+.enam{
+    background-color: darkcyan;
+}

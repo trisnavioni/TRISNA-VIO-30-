@@ -1,0 +1,39 @@
+h1{
+    background-color: #00008b;
+    color: white;
+    text-align: center;
+
+}
+.foto {
+    width: 165px;
+    height: 200px;
+    display: block;
+    margin:0 auto/* Memberikan sedikit ruang antara foto dan konten lainnya */
+}
+
+.vio, .ana, .marsya {
+    background-color:rgb(233, 220, 102);
+    padding: 10px;
+    width: 250px;
+    border: 1cap;
+    border-collapse: collapse;
+    padding: 5px;
+    justify-content: center;
+    margin-bottom: 10px; /* Memberikan sedikit ruang antara setiap div */
+    text-align: center; /* Untuk menempatkan teks di tengah secara horizontal */
+}
+
+a {
+    padding: 15px;
+    margin: 0px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 0px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block; /* Agar elemen link berperilaku seperti elemen blok, memungkinkan penggunaan padding dan margin */
+    text-align:center;
+    width: 210px;
+    border: 1px solid black;
+}
